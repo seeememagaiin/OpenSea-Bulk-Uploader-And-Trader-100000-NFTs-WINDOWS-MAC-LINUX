@@ -1,0 +1,16 @@
+[Opensea_Config]
+OPENSEA_WALLET = "0xB7416EDD965e1b271fC011f15F84ad90bCA0076A"
+OPENSEA_PRIVATEKEY = "7830b8aa41ab9300a0fa47fcaef93c62a233bf6abb986901c1ad042dec0bc123"
+MAX_GWE = 20
+MIN_SECS_SLEEP = 30
+MAX_SECS_SLEEP = 120
+
+[Opensea]
+OPENSEA_SUBS = [
+    "opensea",
+    "OpenseaMarket",
+    "OpenSeaNFT",
+    "NFT",
+    "NFTsMarketplace",
+    "NFTExchange"
+    ]
