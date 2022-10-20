@@ -21,7 +21,7 @@ _A Selenium Python bot to automatically and bulky upload and sell your NFTs on O
 This script allows you to upload and sell **as many NFTs as you want to OpenSea**, all **automatically** and **quickly** (about 2.5 NFTs per minute). **All metadata are integrated**, and the **Ethereum** and **Polygon** Blockchains are supported.  
 
 **You can decide whether you want to upload or sell your NFTs, or both**. If you upload your NFTs and sell them later, a CSV file is created with the URL of the NFT as well as its Blockchain and supply number.
-
+ 
 
 ## Changelog
 
